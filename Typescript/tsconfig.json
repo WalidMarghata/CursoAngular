@@ -1,0 +1,6 @@
+{
+  "CompilerOprtions":{
+    "outDir": "dist",
+    "noEmitOnError": false
+  }   
+}
